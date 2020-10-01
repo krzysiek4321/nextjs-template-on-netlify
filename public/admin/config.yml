@@ -139,3 +139,26 @@ collections:
       - label: "Body"
         name: "body"
         widget: "markdown"
+
+  - name: "indicator"
+    label: "Indicator"
+    folder: "src/pages/indicators"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Category", name: "category", widget: "select", options: ["transportation", "land and people",
+                                                                          "economy", "environment", "equity"]}
+      - {label: "Is New", name: "is-new", widget: "boolean", default: true}
+      - {label: "Created at", name: "creation-datetime", widget: "datetime"}
+      - {label: "Introduction", name: "intro", widget: "text"}
+      - {label: "Fast facts", name: "fast-facts", widget: "list",
+         field: {label: "Fact", name: "fact", widget: "markdown"}
+      }
+      - label: "Sections"
+        name: "section-list"
+        widget: "list"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Subtitle", name: "subtitle", widget: "text"}
+          - {label: "Content", name: "content", widget: "markdown"}
+      - {label: "Ending notes", name: "end-notes", widget: "markdown"}
