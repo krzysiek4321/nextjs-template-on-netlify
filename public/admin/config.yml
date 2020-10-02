@@ -144,6 +144,14 @@ collections:
     label: "Indicator"
     folder: "src/pages/indicators"
     create: true
+    sortable_fields: ['title', 'category', 'is-new', 'creation-datetime']
+    view_filters:
+      - {label: 'transportation', field: category, pattern: 'transportation'}
+      - {label: 'land and people', field: category, pattern: 'land and people'}
+      - {label: 'economy', field: category, pattern: 'economy'}
+      - {label: 'environment', field: category, pattern: 'environment'}
+      - {label: 'equity', field: category, pattern: 'equity'}
+
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Category", name: "category", widget: "select", options: ["transportation", "land and people",
