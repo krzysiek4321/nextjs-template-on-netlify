@@ -47,7 +47,7 @@ function fetchIndicatorContent(): IndicatorContent[] {
     // Get file names under /posts
     const fileNames = fs.readdirSync(indicatorsDirectory);
     const allPostsData = fileNames
-        .filter((it) => it.endsWith(".mdx"))
+        .filter((it) => it.endsWith(".md"))
         .map((fileName) => {
             // Read markdown file as string
             const fullPath = path.join(indicatorsDirectory, fileName);

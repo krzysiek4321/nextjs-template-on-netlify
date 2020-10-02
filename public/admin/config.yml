@@ -144,7 +144,7 @@ collections:
     label: "Indicator"
     folder: "src/pages/indicators"
     create: true
-    extension: "mdx"
+    extension: "md"
     format: "frontmatter"
     sortable_fields: ['title', 'category', 'is-new', 'creation-datetime']
     view_filters:
