@@ -144,6 +144,8 @@ collections:
     label: "Indicator"
     folder: "src/pages/indicators"
     create: true
+    extension: "mdx"
+    format: "frontmatter"
     sortable_fields: ['title', 'category', 'is-new', 'creation-datetime']
     view_filters:
       - {label: 'transportation', field: category, pattern: 'transportation'}
