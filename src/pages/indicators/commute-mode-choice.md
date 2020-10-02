@@ -57,6 +57,19 @@ section-list:
       transit to get to their jobs. Residents of East Bay cities like Albany,
       Emeryville, El Cerrito, and Berkeley have transit mode shares even higher
       than much larger urban centers like San Jose and Oakland.
+  - title: National Context
+    subtitle: Only New York has a greater share of commuters who choose to leave the
+      car at home.
+    content: >-
+      More than one-quarter of Bay Area residents choose non-auto modes to get
+      to work, slightly more than Washington, D.C. or Chicago. Only New York,
+      where just half of commuters drive alone each day, significantly
+      outperforms the Bay Area in this regard. The Bay Area performs similarly
+      for other non-automobile modes, ranking fourth for transit commuters,
+      second for walk commuters, and first for bike commuters.
+
+
+      In Miami, Atlanta, Dallas and Houston, approximately 80 percent of residents drive alone to work each day. While the data indicate substantial differences between the Bay Area and these Sunbelt metros, the reality is a bit more complex. The South Bay actually has mode shares quite similar to Miami or Atlanta, due in part to its rapid development in the era of the automobile. Meanwhile, San Francisco and other core cities have mode shares that more closely resemble New York.
 end-notes: >-
   Sources:
 
