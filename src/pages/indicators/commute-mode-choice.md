@@ -11,7 +11,8 @@ intro: No matter where a person lives, commuting can be a challenge. And no
   traffic congestion to air pollution.
 fast-facts:
   - |-
-    12%
+    # 12%
+
     of Bay Area commuters relied on public transit in 2018
 end-notes: >-
   Sources:
