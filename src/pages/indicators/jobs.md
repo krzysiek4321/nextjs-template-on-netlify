@@ -2,7 +2,7 @@
 title: Jobs
 category: land and people
 is-new: true
-creation-datetime: 2020-10-01T15:00:21.635Z
+creation-datetime: 2020-10-02T10:47:33.122Z
 intro: If the Bay Area were a nation, its economy would rank among the top 25 in
   the world. Measured by number of jobs, our region’s economy is the
   fourth-largest among metropolitan areas in the United States – exactly in line
