@@ -21,6 +21,7 @@
     "normalize.css": "^8.0.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
+    "react-google-maps": "^9.4.5",
     "react-instagram-embed": "^1.5.0",
     "react-schemaorg": "^1.2.0",
     "react-twitter-embed": "^3.0.3",
