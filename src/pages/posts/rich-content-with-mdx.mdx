@@ -37,17 +37,3 @@ import { TwitterTweetEmbed } from "react-twitter-embed";
 <p>
   <TwitterTweetEmbed tweetId={"933354946111705097"} />
 </p>
-
-## Google maps with react-google-maps
-
-import {GoogleMap, withScriptjs, withGoogleMap} from "react-google-maps";
-
-function Map() {
-return (<p>
-<GoogleMap defaultZoom={10} defaultCenter={{lat:0, lng:0}}/>
-</p>);
-}
-
-const Wrapper = withScriptjs(withGoogleMap(Map))
-
-<Wrapper />
