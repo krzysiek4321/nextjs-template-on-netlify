@@ -14,6 +14,49 @@ fast-facts:
     # 12%
 
     of Bay Area commuters relied on public transit in 2018
+section-list:
+  - title: Regional Performance
+    subtitle: 2018 saw the share of automobile-based commuting decline in the Bay
+      Area for the eighth year in a row.
+    content: >-
+      Regional mode shares have been changing for the first time in decades.
+      While three-quarters of residents still drive to work on a typical
+      workday, the share of residents making this choice has declined by over 7
+      percentage points since 2000. This trend has accelerated in recent years,
+      powered primarily by growth in public transit and active modes like
+      walking and biking.
+
+
+      Transit mode shares increased by 2 percentage points in the last decade – the first time this share has markedly increased in more than five decades. Hovering at 12 percent over the past few years, the share of Bay Area public transit commutes is at its highest level since 1970. Walking and biking to work have also become more popular, especially in San Francisco where active transportation has posted the greatest gains in recent years.
+  - title: Regional Distribution
+    subtitle: Shifts in regional mode choice have largely been driven by changing
+      commute behaviors in four specific counties.
+    content: >-
+      While commuting patterns have been relatively stable over time in the
+      North Bay and South Bay, this has not been the case elsewhere. In Alameda,
+      Marin, San Francisco and San Mateo counties, the share of residents
+      driving to work has dropped by four to seven percentage points since 2008.
+      Many residents in these counties commute to jobs in San Francisco, where
+      an economic boom has added just under 200,000 new jobs during this period.
+      To avoid increasingly congested freeways and limited parking, the bulk of
+      these commuters shifted to public transit – boosting BART and Caltrain
+      ridership to record levels.
+
+
+      While Contra Costa County has not experienced changes as dramatic as those seen in other Bay Area counties in recent years, county residents have made consistent and significant shifts in their commute choices over the long term. Since 1960, the share of auto commutes has dropped six percentage points while the share of transit commutes has increased by the same amount; this shift was due in large part to the construction and expansion of the BART system across the county.
+  - title: Local Focus
+    subtitle: San Francisco and inner East Bay communities lead the region in
+      commuting by public transit.
+    content: At 34 percent in 2018, San Francisco remains the regional leader in the
+      percentage of residents who take transit to work, which includes both
+      public options like Muni and BART as well as employer-provided shuttles.
+      Adding in walking, bicycling and telecommuting, we find that 60 percent of
+      San Franciscans get to work each day without an automobile, a strikingly
+      high mode share for a U.S. city. At the same time, commuters from some
+      central Bay Area cities are outpacing other large urban centers in using
+      transit to get to their jobs. Residents of East Bay cities like Albany,
+      Emeryville, El Cerrito, and Berkeley have transit mode shares even higher
+      than much larger urban centers like San Jose and Oakland.
 end-notes: >-
   Sources:
 
