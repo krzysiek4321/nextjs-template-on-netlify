@@ -1,15 +1,15 @@
 ---
 title: Jobs
 category: land and people
-is-new: true
-creation-datetime: 2020-10-02T10:47:33.122Z
+is_new: true
+creation_datetime: 2020-10-02T10:47:33.122Z
 intro: If the Bay Area were a nation, its economy would rank among the top 25 in
   the world. Measured by number of jobs, our region’s economy is the
   fourth-largest among metropolitan areas in the United States – exactly in line
   with our rank by population. The Bay Area’s 4 million workers power an economy
   notable for its diversity, innovation and resilience, factors that have been
   instrumental in helping the region rebound from the Great Recession.
-section-list:
+section_list:
   - title: Regional Performance
     subtitle: Employment is at an all-time record high.
     content: >-
@@ -23,7 +23,7 @@ section-list:
 
 
       Between 2000 and 2010, the number of jobs in San Francisco decreased by 65,000. In recent years, the city has more than recovered, adding 184,000 jobs between 2010 and 2018 – nearly three times the number lost in the first decade of the 21st century. Santa Clara County is also experiencing an unprecedented boom, adding over 250,000 jobs in this decade after losing 180,000 jobs between 2000 and 2010. Together, these two counties account for nearly half the region’s employment – and more than 60 percent of regional job growth since 2010. In contrast, recent job growth in the North Bay counties of Solano and Marin – as well as Contra Costa County – has been significantly less robust.
-end-notes: >-
+end_notes: >-
   Sources:
 
 

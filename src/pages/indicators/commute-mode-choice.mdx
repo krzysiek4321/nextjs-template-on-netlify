@@ -1,20 +1,20 @@
 ---
 title: Commute Mode Choice
 category: transportation
-is-new: true
-creation-datetime: 2020-10-02T10:02:10.501Z
+is_new: true
+creation_datetime: 2020-10-02T10:02:10.501Z
 intro: No matter where a person lives, commuting can be a challenge. And no
   matter the location in the Bay Area, residents have different options for
   getting from home to work. Some commuters walk or ride their bikes to work,
   others carpool across the Bay Bridge, and still others rely on transit. The
   choice of how to commute – or commute mode choice – affects everything from
   traffic congestion to air pollution.
-fast-facts:
+fast_facts:
   - |-
     # 12%
 
     of Bay Area commuters relied on public transit in 2018
-section-list:
+section_list:
   - title: Regional Performance
     subtitle: 2018 saw the share of automobile-based commuting decline in the Bay
       Area for the eighth year in a row.
@@ -70,7 +70,7 @@ section-list:
 
 
       In Miami, Atlanta, Dallas and Houston, approximately 80 percent of residents drive alone to work each day. While the data indicate substantial differences between the Bay Area and these Sunbelt metros, the reality is a bit more complex. The South Bay actually has mode shares quite similar to Miami or Atlanta, due in part to its rapid development in the era of the automobile. Meanwhile, San Francisco and other core cities have mode shares that more closely resemble New York.
-end-notes: >-
+end_notes: >-
   Sources:
 
 

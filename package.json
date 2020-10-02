@@ -25,7 +25,8 @@
     "react-schemaorg": "^1.2.0",
     "react-twitter-embed": "^3.0.3",
     "react-youtube": "^7.11.3",
-    "schema-dts": "^0.6.0"
+    "schema-dts": "^0.6.0",
+    "swr": "^0.3.5"
   },
   "devDependencies": {
     "@types/jest": "^26.0.9",
